@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="list" type="id">list</item>
+    <item name="btnReg" type="id">btnReg</item>
+    <item name="txtfname" type="id">txtfname</item>
+    <item name="txtlname" type="id">txtlname</item>
+    <item name="txtpass" type="id">txtpass</item>
+    <item name="txtemail" type="id">txtemail</item>
+    <item name="txtphone" type="id">txtphone</item>
+    <item name="btnlogin" type="id">btnlogin</item>
+</resources>
